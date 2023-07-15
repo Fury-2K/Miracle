@@ -1,0 +1,2 @@
+# wizard
+Mac setup utility
